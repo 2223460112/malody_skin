@@ -1,12 +1,12 @@
 @include base.mui
 
-@define space 250
-@define halfs 125
-@define notex 200
+@define space 235
+@define halfs 117.5
+@define notex 195
 @define notey 30
 @define keywid 40
 @define halfkeywid 20
-@define holdhitspace 18.75
+@define holdhitspace 17.625
 
 @if <1.8
 @define space 140
@@ -24,7 +24,7 @@
 @define holdhitspace 9
 @endif
 
-_divideline-[1-5]
+_divideline-[1-6]
 	type=2
 	color=#ffffff
 	opacity=50
@@ -32,9 +32,9 @@ _divideline-[1-5]
 	anchor=4
 	zindex=2
 	rotate=90
-	pos=50%-{space}-{space}${space},50%
+	pos=50%-{space}-{space}-{halfs}${space},50%
 
-_guideline-[1-6]
+_guideline-[1-7]
 	type=2
 	color=#ffffff
 	opacity=25
@@ -42,9 +42,9 @@ _guideline-[1-6]
 	anchor=4
 	zindex=2
 	rotate=90
-	pos=50%-{space}-{space}-{halfs}${space},50%
+	pos=50%-{space}-{space}-{space}${space},50%
 
-note-[1-4]
+note-[1-5]
 	tex=tap.png
 	tex2=hold.png
 	tex3=hold_end.png
@@ -55,10 +55,10 @@ note-[1-4]
 	anchor=4
 	type=2
 	toggle=1+2
-	pos=50%-{space}-{halfs}${space},720
-	pos2=50%-{space}-{halfs}${space},{jheight}
+	pos=50%-{space}-{space}${space},720
+	pos2=50%-{space}-{space}${space},{jheight}
 
-judge-[1-4]
+judge-[1-5]
 	type=3
 	frame=axiom-perfect/1-30
 	frame2=axiom-good/1-30
@@ -69,9 +69,9 @@ judge-[1-4]
 	anchor=4
 	zindex=24
 	opacity=100
-	pos=50%-{space}-{halfs}${space},{jheight}
+	pos=50%-{space}-{space}${space},{jheight}
 
-hit-[1-4]
+hit-[1-5]
 	frame=axiom-none/1-30
 	frame2=axiom-perfect/6-25
 	frame3=axiom-perfect/25-30
@@ -80,41 +80,45 @@ hit-[1-4]
 	anchor=4
 	zindex=24
 	opacity=100
-	pos=50%-{space}-{halfs}${space},{jheight}
+	pos=50%-{space}-{space}${space},{jheight}
 
-press-[1-4]
+press-[1-5]
 	frame=pressdown/1-1
 	frame2=pressdown/1-15
 	size={halfs}-20,720-{jheight}
 	interval=16.67
 	anchor=7
-	pos=50%-{space}-{halfs}${space},{jheight}
+	pos=50%-{space}-{space}${space},{jheight}
 	zindex=9
 	opacity=50
 
-key-[1-4]
+key-[1-5]
 	tex=axiom-none-1.png
 	size=0,2
 	anchor=3
 	zindex=150
 	opacity=100
-	pos=35,60%-{halfkeywid}-{keywid}-15${keywid}+10
+	pos=35,60%-{halfkeywid}-{keywid}-{keywid}-25${keywid}+10
 
 key-1
-	tex2=axiom-key-1.png
+	tex2=axiom-key3-1.png
 
 key-2
-	tex2=axiom-key-2.png
+	tex2=axiom-key3-2.png
 
 key-3
-	tex2=axiom-key-3.png
+	tex2=axiom-key3-3.png
 
 key-4
-	tex2=axiom-key-4.png
+	tex2=axiom-key4-4.png
+
+key-5
+	tex2=axiom-key5-4.png
 
 touch
 	type=1
-	rect1=50%-{space}-{space}-{halfs},0,{space}+{halfs},100%
-	rect2=50%-{space},0,{space},100%
-	rect3=50%,0,{space},100%
-	rect4=50%+{space},0,{space}+{halfs},100%
+	rect1=50%-{space}-{space}-{space},0,{space}+{halfs},100%
+	rect2=50%-{space}-{halfs},0,{space},100%
+	rect3=50%-{halfs},0,{space},100%
+	rect4=50%+{halfs},0,{space},100%
+	rect5=50%+{space}+{halfs},0,{space}+{halfs},100%

@@ -1,7 +1,7 @@
 @version 4.0.0
 @cool key.ogg
 @good key.ogg
-@texpack phitex
+@texpack axiomtex
 @unit 720
 
 @define jheight 108
@@ -64,15 +64,15 @@ _diff
 
 
 _combo
-	tex=combo.png
+	tex=rockwell_combo.png
 	pos=50%,640
-	size=84,24
+	size=0,24
 	anchor=1
 	zindex=150
 
 score-combo
 	anchor=1
-	frame=phinum/0-9
+	frame=rockwell-num/0-9
 	fsize=40
 	pos=50%,705
 	pos2=0.8px,0
@@ -80,7 +80,7 @@ score-combo
 
 score-score
 	anchor=2
-	frame=phinum/0-9
+	frame=rockwell-num/0-9
 	fsize=29
 	pos=100%-23,695
 	pos2=0.8px,0
@@ -88,7 +88,7 @@ score-score
 
 score-acc
 	anchor=2
-	frame=phinum/0-11
+	frame=rockwell-num/0-11
 	color=#66ccff
 	fsize=20
 	pos=100%-23,650
@@ -105,7 +105,7 @@ score-hp
 	zindex=150
 
 progress
-	tex=50per.png
+	tex=50per_block.png
 	type=0
 	pos=0,720
 	size=100%,7.5
@@ -114,25 +114,25 @@ progress
 
 pause
 	anchor=0
-	tex=none-1.png
+	tex=axiom-none-1.png
 	size=70,70
 	pos=0,720
 	zindex=150
 
 hit-fast
-	frame=phiearly/0-1
+	frame=rockwell_early/0-1
 	interval=100
 	pos=50%,640
-	size=86,26
+	size=0,24
 	anchor=1
 	zindex=150
 
 
 hit-slow
-	frame=philate/0-1
+	frame=rockwell_late/0-1
 	interval=100
 	pos=50%,640
-	size=86,26
+	size=0,24
 	anchor=1
 	zindex=150
 
@@ -156,10 +156,10 @@ _background2
 	pos=50%,{jheight}
 
 bar
-	tex=block-0.png
+	tex=50per_block.png
 	pos=50%,100%
 	pos2=50%,{jheight}
-	size=1280,4
+	size=1280,2
 	anchor=4
 	zindex=3
 
@@ -174,7 +174,7 @@ musicbar
 score-maxcombo
 	anchor=1
 	color=#66ccff
-	frame=phinum/0-9
+	frame=rockwell-num/0-9
 	fsize=20
 	pos=50%,662
 	pos2=0.8px,0

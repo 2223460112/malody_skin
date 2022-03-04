@@ -60,10 +60,10 @@ note-[1-6]
 
 judge-[1-6]
 	type=3
-	frame=perfect/1-30
-	frame2=good/1-30
-	frame3=fail/1-30
-	frame4=none/1-30
+	frame=axiom-perfect/1-30
+	frame2=axiom-good/1-30
+	frame3=axiom-fail/1-30
+	frame4=axiom-none/1-30
 	interval=16.67
 	size={space},{space}
 	anchor=4
@@ -72,9 +72,9 @@ judge-[1-6]
 	pos=50%-{space}-{space}-{halfs}${space},{jheight}
 
 hit-[1-6]
-	frame=none/1-30
-	frame2=perfect/6-25
-	frame3=perfect/25-30
+	frame=axiom-none/1-30
+	frame2=axiom-perfect/6-25
+	frame3=axiom-perfect/25-30
 	size={holdhitspace},{holdhitspace}
 	interval=16.67
 	anchor=4
@@ -85,15 +85,15 @@ hit-[1-6]
 press-[1-6]
 	frame=pressdown/1-1
 	frame2=pressdown/1-15
-	size={halfs}-25,720-{jheight}
+	size={halfs}-15,720-{jheight}
 	interval=16.67
 	anchor=7
 	pos=50%-{space}-{space}-{halfs}${space},{jheight}
 	zindex=9
-	opacity=100
+	opacity=50
 
 key-[1-6]
-	tex=none-1.png
+	tex=axiom-none-1.png
 	size=0,2
 	anchor=3
 	zindex=150
@@ -101,22 +101,22 @@ key-[1-6]
 	pos=35+{halfkeywid},60%-{halfkeywid}-{keywid}-{keywid}-25${keywid}+10
 
 key-1
-	tex2=key2-1.png
+	tex2=axiom-key2-1.png
 
 key-2
-	tex2=key2-2.png
+	tex2=axiom-key2-2.png
 
 key-3
-	tex2=key2-3.png
+	tex2=axiom-key2-3.png
 
 key-4
-	tex2=key2-4.png
+	tex2=axiom-key2-4.png
 
 key-5
-	tex2=key2-5.png
+	tex2=axiom-key2-5.png
 
 key-6
-	tex2=key2-6.png
+	tex2=axiom-key2-6.png
 
 touch
 	type=1
