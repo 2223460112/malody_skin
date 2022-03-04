@@ -85,7 +85,7 @@ hit-[1-6]
 press-[1-6]
 	frame=pressdown/1-1
 	frame2=pressdown/1-15
-	size={halfs}-15,720-{jheight}
+	size={halfs}-25,720-{jheight}
 	interval=16.67
 	anchor=7
 	pos=50%-{space}-{space}-{halfs}${space},{jheight}
