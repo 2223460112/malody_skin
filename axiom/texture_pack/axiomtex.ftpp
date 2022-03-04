@@ -5,323 +5,663 @@
   "savePath": "C:\\Users\\ZZJ\\Documents\\projects\\malody_skin\\axiom\\texture_pack",
   "images": [
     {
-      "name": "50per.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/50per.png",
+      "name": "50per_block.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/50per_block.png",
       "folder": ""
     },
     {
-      "name": "block-0.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/block-0.png",
+      "name": "axiom-fail-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-1.png",
       "folder": ""
     },
     {
-      "name": "combo.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/combo.png",
+      "name": "axiom-fail-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-10.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-11.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-12.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-12.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-13.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-13.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-14.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-14.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-15.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-15.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-16.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-16.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-17.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-17.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-18.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-18.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-19.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-19.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-20.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-20.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-21.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-21.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-22.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-22.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-23.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-23.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-24.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-24.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-25.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-25.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-26.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-26.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-27.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-27.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-28.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-28.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-29.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-29.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-30.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-30.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-5.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-6.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-7.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-8.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-fail-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-fail-9.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-1.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-10.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-11.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-12.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-12.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-13.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-13.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-14.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-14.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-15.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-15.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-16.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-16.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-17.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-17.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-18.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-18.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-19.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-19.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-20.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-20.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-21.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-21.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-22.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-22.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-23.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-23.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-24.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-24.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-25.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-25.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-26.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-26.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-27.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-27.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-28.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-28.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-29.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-29.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-30.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-30.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-5.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-6.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-7.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-8.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-good-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-good-9.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key-1.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-1.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-5.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-key2-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/axiom-key2-6.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-1.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-10.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-11.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-12.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-12.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-13.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-13.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-14.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-14.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-15.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-15.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-16.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-16.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-17.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-17.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-18.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-18.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-19.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-19.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-20.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-20.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-21.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-21.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-22.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-22.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-23.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-23.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-24.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-24.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-25.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-25.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-26.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-26.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-27.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-27.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-28.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-28.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-29.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-29.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-30.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-30.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-5.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-6.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-7.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-8.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-none-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none/axiom-none-9.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-1.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-10.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-11.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-12.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-12.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-13.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-13.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-14.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-14.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-15.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-15.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-16.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-16.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-17.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-17.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-18.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-18.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-19.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-19.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-2.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-20.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-20.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-21.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-21.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-22.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-22.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-23.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-23.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-24.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-24.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-25.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-25.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-26.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-26.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-27.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-27.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-28.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-28.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-29.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-29.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-3.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-30.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-30.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-4.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-5.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-6.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-7.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-8.png",
+      "folder": ""
+    },
+    {
+      "name": "axiom-perfect-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/axiom-perfect-9.png",
       "folder": ""
     },
     {
       "name": "drag.png",
       "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/drag.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-1.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-10.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-11.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-12.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-12.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-13.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-13.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-14.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-14.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-15.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-15.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-16.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-16.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-17.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-17.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-18.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-18.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-19.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-19.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-2.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-20.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-20.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-21.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-21.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-22.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-22.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-23.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-23.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-24.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-24.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-25.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-25.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-26.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-26.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-27.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-27.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-28.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-28.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-29.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-29.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-3.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-30.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-30.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-4.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-5.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-6.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-7.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-8.png",
-      "folder": ""
-    },
-    {
-      "name": "fail-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/fail-9.png",
-      "folder": ""
-    },
-    {
-      "name": "good-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-1.png",
-      "folder": ""
-    },
-    {
-      "name": "good-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-10.png",
-      "folder": ""
-    },
-    {
-      "name": "good-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-11.png",
-      "folder": ""
-    },
-    {
-      "name": "good-12.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-12.png",
-      "folder": ""
-    },
-    {
-      "name": "good-13.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-13.png",
-      "folder": ""
-    },
-    {
-      "name": "good-14.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-14.png",
-      "folder": ""
-    },
-    {
-      "name": "good-15.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-15.png",
-      "folder": ""
-    },
-    {
-      "name": "good-16.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-16.png",
-      "folder": ""
-    },
-    {
-      "name": "good-17.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-17.png",
-      "folder": ""
-    },
-    {
-      "name": "good-18.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-18.png",
-      "folder": ""
-    },
-    {
-      "name": "good-19.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-19.png",
-      "folder": ""
-    },
-    {
-      "name": "good-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-2.png",
-      "folder": ""
-    },
-    {
-      "name": "good-20.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-20.png",
-      "folder": ""
-    },
-    {
-      "name": "good-21.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-21.png",
-      "folder": ""
-    },
-    {
-      "name": "good-22.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-22.png",
-      "folder": ""
-    },
-    {
-      "name": "good-23.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-23.png",
-      "folder": ""
-    },
-    {
-      "name": "good-24.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-24.png",
-      "folder": ""
-    },
-    {
-      "name": "good-25.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-25.png",
-      "folder": ""
-    },
-    {
-      "name": "good-26.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-26.png",
-      "folder": ""
-    },
-    {
-      "name": "good-27.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-27.png",
-      "folder": ""
-    },
-    {
-      "name": "good-28.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-28.png",
-      "folder": ""
-    },
-    {
-      "name": "good-29.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-29.png",
-      "folder": ""
-    },
-    {
-      "name": "good-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-3.png",
-      "folder": ""
-    },
-    {
-      "name": "good-30.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-30.png",
-      "folder": ""
-    },
-    {
-      "name": "good-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-4.png",
-      "folder": ""
-    },
-    {
-      "name": "good-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-5.png",
-      "folder": ""
-    },
-    {
-      "name": "good-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-6.png",
-      "folder": ""
-    },
-    {
-      "name": "good-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-7.png",
-      "folder": ""
-    },
-    {
-      "name": "good-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-8.png",
-      "folder": ""
-    },
-    {
-      "name": "good-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/good-9.png",
       "folder": ""
     },
     {
@@ -340,508 +680,188 @@
       "folder": ""
     },
     {
-      "name": "key-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key-1.png",
+      "name": "key3-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/key3-1.png",
       "folder": ""
     },
     {
-      "name": "key-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key-2.png",
+      "name": "key3-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/key3-2.png",
       "folder": ""
     },
     {
-      "name": "key-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key-3.png",
+      "name": "key3-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/key3-3.png",
       "folder": ""
     },
     {
-      "name": "key-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key-4.png",
+      "name": "key3-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/key3-4.png",
       "folder": ""
     },
     {
-      "name": "key2-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-1.png",
-      "folder": ""
-    },
-    {
-      "name": "key2-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-2.png",
-      "folder": ""
-    },
-    {
-      "name": "key2-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-3.png",
-      "folder": ""
-    },
-    {
-      "name": "key2-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-4.png",
-      "folder": ""
-    },
-    {
-      "name": "key2-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-5.png",
-      "folder": ""
-    },
-    {
-      "name": "key2-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key2-6.png",
-      "folder": ""
-    },
-    {
-      "name": "none-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-1.png",
-      "folder": ""
-    },
-    {
-      "name": "none-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-10.png",
-      "folder": ""
-    },
-    {
-      "name": "none-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-11.png",
-      "folder": ""
-    },
-    {
-      "name": "none-12.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-12.png",
-      "folder": ""
-    },
-    {
-      "name": "none-13.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-13.png",
-      "folder": ""
-    },
-    {
-      "name": "none-14.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-14.png",
-      "folder": ""
-    },
-    {
-      "name": "none-15.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-15.png",
-      "folder": ""
-    },
-    {
-      "name": "none-16.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-16.png",
-      "folder": ""
-    },
-    {
-      "name": "none-17.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-17.png",
-      "folder": ""
-    },
-    {
-      "name": "none-18.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-18.png",
-      "folder": ""
-    },
-    {
-      "name": "none-19.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-19.png",
-      "folder": ""
-    },
-    {
-      "name": "none-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-2.png",
-      "folder": ""
-    },
-    {
-      "name": "none-20.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-20.png",
-      "folder": ""
-    },
-    {
-      "name": "none-21.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-21.png",
-      "folder": ""
-    },
-    {
-      "name": "none-22.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-22.png",
-      "folder": ""
-    },
-    {
-      "name": "none-23.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-23.png",
-      "folder": ""
-    },
-    {
-      "name": "none-24.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-24.png",
-      "folder": ""
-    },
-    {
-      "name": "none-25.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-25.png",
-      "folder": ""
-    },
-    {
-      "name": "none-26.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-26.png",
-      "folder": ""
-    },
-    {
-      "name": "none-27.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-27.png",
-      "folder": ""
-    },
-    {
-      "name": "none-28.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-28.png",
-      "folder": ""
-    },
-    {
-      "name": "none-29.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-29.png",
-      "folder": ""
-    },
-    {
-      "name": "none-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-3.png",
-      "folder": ""
-    },
-    {
-      "name": "none-30.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-30.png",
-      "folder": ""
-    },
-    {
-      "name": "none-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-4.png",
-      "folder": ""
-    },
-    {
-      "name": "none-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-5.png",
-      "folder": ""
-    },
-    {
-      "name": "none-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-6.png",
-      "folder": ""
-    },
-    {
-      "name": "none-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-7.png",
-      "folder": ""
-    },
-    {
-      "name": "none-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-8.png",
-      "folder": ""
-    },
-    {
-      "name": "none-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/none-9.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-1.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-10.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-11.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-12.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-12.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-13.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-13.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-14.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-14.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-15.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-15.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-16.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-16.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-17.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-17.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-18.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-18.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-19.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-19.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-2.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-20.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-20.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-21.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-21.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-22.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-22.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-23.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-23.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-24.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-24.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-25.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-25.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-26.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-26.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-27.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-27.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-28.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-28.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-29.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-29.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-3.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-30.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-30.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-4.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-5.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-6.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-7.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-8.png",
-      "folder": ""
-    },
-    {
-      "name": "perfect-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/perfect-9.png",
-      "folder": ""
-    },
-    {
-      "name": "phiearly-0.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phiearly-0.png",
-      "folder": ""
-    },
-    {
-      "name": "phiearly-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phiearly-1.png",
-      "folder": ""
-    },
-    {
-      "name": "philate-0.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/philate-0.png",
-      "folder": ""
-    },
-    {
-      "name": "philate-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/philate-1.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-0.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-0.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-1.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-10.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-11.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-2.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-3.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-4.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-5.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-6.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-7.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-8.png",
-      "folder": ""
-    },
-    {
-      "name": "phinum-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/phinum-9.png",
+      "name": "key3-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/key3-5.png",
       "folder": ""
     },
     {
       "name": "pressdown-1.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-1.png",
       "folder": ""
     },
     {
       "name": "pressdown-10.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-10.png",
       "folder": ""
     },
     {
       "name": "pressdown-11.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-11.png",
       "folder": ""
     },
     {
       "name": "pressdown-12.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-12.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-12.png",
       "folder": ""
     },
     {
       "name": "pressdown-13.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-13.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-13.png",
       "folder": ""
     },
     {
       "name": "pressdown-14.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-14.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-14.png",
       "folder": ""
     },
     {
       "name": "pressdown-15.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-15.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-15.png",
       "folder": ""
     },
     {
       "name": "pressdown-2.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-2.png",
       "folder": ""
     },
     {
       "name": "pressdown-3.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-3.png",
       "folder": ""
     },
     {
       "name": "pressdown-4.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-4.png",
       "folder": ""
     },
     {
       "name": "pressdown-5.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-5.png",
       "folder": ""
     },
     {
       "name": "pressdown-6.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-6.png",
       "folder": ""
     },
     {
       "name": "pressdown-7.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-7.png",
       "folder": ""
     },
     {
       "name": "pressdown-8.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-8.png",
       "folder": ""
     },
     {
       "name": "pressdown-9.png",
-      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/pressdown-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/hit/pressdown-9.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-0.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-0.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-1.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-10.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-10.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-11.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-11.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-2.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-2.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-3.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-3.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-4.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-4.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-5.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-5.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-6.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-6.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-7.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-7.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-8.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-8.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell-num-9.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/key and num/rockwell-num-9.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell_combo.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/rockwell_combo.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell_early-0.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/rockwell_early-0.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell_early-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/rockwell_early-1.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell_late-0.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/rockwell_late-0.png",
+      "folder": ""
+    },
+    {
+      "name": "rockwell_late-1.png",
+      "path": "C:/Users/ZZJ/Documents/projects/malody_skin/axiom/texture_pack/axiomtex/rockwell_late-1.png",
       "folder": ""
     },
     {
@@ -874,8 +894,8 @@
     "exporter": "cocos2d",
     "fileName": "pack-result",
     "savePath": "C:\\Users\\ZZJ\\Documents\\projects\\malody_skin\\axiom\\texture_pack",
-    "width": 3500,
-    "height": 3500,
+    "width": 4800,
+    "height": 3700,
     "fixedSize": false,
     "powerOfTwo": false,
     "padding": 10,
