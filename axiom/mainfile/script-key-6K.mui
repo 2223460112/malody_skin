@@ -97,7 +97,7 @@ key-[1-6]
 	size=0,2
 	anchor=3
 	zindex=150
-	opacity=100
+	opacity=60
 	pos=35+{halfkeywid},60%-{halfkeywid}-{keywid}-{keywid}-25${keywid}+10
 
 key-1
