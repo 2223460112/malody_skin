@@ -1,0 +1,891 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "C:\\Program Files (x86)\\Malody-4.3.7\\skin\\phigros 素材",
+  "images": [
+    {
+      "name": "50per.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/50per.png",
+      "folder": ""
+    },
+    {
+      "name": "block-0.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/block-0.png",
+      "folder": ""
+    },
+    {
+      "name": "combo.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/combo.png",
+      "folder": ""
+    },
+    {
+      "name": "drag.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/drag.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-1.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-10.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-11.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-12.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-12.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-13.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-13.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-14.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-14.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-15.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-15.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-16.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-16.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-17.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-17.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-18.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-18.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-19.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-19.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-2.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-20.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-20.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-21.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-21.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-22.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-22.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-23.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-23.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-24.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-24.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-25.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-25.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-26.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-26.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-27.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-27.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-28.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-28.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-29.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-29.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-3.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-30.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-30.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-4.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-5.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-6.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-7.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-8.png",
+      "folder": ""
+    },
+    {
+      "name": "fail-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/fail-9.png",
+      "folder": ""
+    },
+    {
+      "name": "good-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-1.png",
+      "folder": ""
+    },
+    {
+      "name": "good-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-10.png",
+      "folder": ""
+    },
+    {
+      "name": "good-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-11.png",
+      "folder": ""
+    },
+    {
+      "name": "good-12.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-12.png",
+      "folder": ""
+    },
+    {
+      "name": "good-13.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-13.png",
+      "folder": ""
+    },
+    {
+      "name": "good-14.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-14.png",
+      "folder": ""
+    },
+    {
+      "name": "good-15.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-15.png",
+      "folder": ""
+    },
+    {
+      "name": "good-16.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-16.png",
+      "folder": ""
+    },
+    {
+      "name": "good-17.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-17.png",
+      "folder": ""
+    },
+    {
+      "name": "good-18.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-18.png",
+      "folder": ""
+    },
+    {
+      "name": "good-19.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-19.png",
+      "folder": ""
+    },
+    {
+      "name": "good-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-2.png",
+      "folder": ""
+    },
+    {
+      "name": "good-20.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-20.png",
+      "folder": ""
+    },
+    {
+      "name": "good-21.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-21.png",
+      "folder": ""
+    },
+    {
+      "name": "good-22.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-22.png",
+      "folder": ""
+    },
+    {
+      "name": "good-23.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-23.png",
+      "folder": ""
+    },
+    {
+      "name": "good-24.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-24.png",
+      "folder": ""
+    },
+    {
+      "name": "good-25.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-25.png",
+      "folder": ""
+    },
+    {
+      "name": "good-26.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-26.png",
+      "folder": ""
+    },
+    {
+      "name": "good-27.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-27.png",
+      "folder": ""
+    },
+    {
+      "name": "good-28.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-28.png",
+      "folder": ""
+    },
+    {
+      "name": "good-29.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-29.png",
+      "folder": ""
+    },
+    {
+      "name": "good-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-3.png",
+      "folder": ""
+    },
+    {
+      "name": "good-30.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-30.png",
+      "folder": ""
+    },
+    {
+      "name": "good-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-4.png",
+      "folder": ""
+    },
+    {
+      "name": "good-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-5.png",
+      "folder": ""
+    },
+    {
+      "name": "good-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-6.png",
+      "folder": ""
+    },
+    {
+      "name": "good-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-7.png",
+      "folder": ""
+    },
+    {
+      "name": "good-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-8.png",
+      "folder": ""
+    },
+    {
+      "name": "good-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/good-9.png",
+      "folder": ""
+    },
+    {
+      "name": "hold.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/hold.png",
+      "folder": ""
+    },
+    {
+      "name": "hold_end.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/hold_end.png",
+      "folder": ""
+    },
+    {
+      "name": "hp.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/hp.png",
+      "folder": ""
+    },
+    {
+      "name": "key-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key-1.png",
+      "folder": ""
+    },
+    {
+      "name": "key-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key-2.png",
+      "folder": ""
+    },
+    {
+      "name": "key-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key-3.png",
+      "folder": ""
+    },
+    {
+      "name": "key-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key-4.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-1.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-2.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-3.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-4.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-5.png",
+      "folder": ""
+    },
+    {
+      "name": "key2-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/key2-6.png",
+      "folder": ""
+    },
+    {
+      "name": "none-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-1.png",
+      "folder": ""
+    },
+    {
+      "name": "none-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-10.png",
+      "folder": ""
+    },
+    {
+      "name": "none-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-11.png",
+      "folder": ""
+    },
+    {
+      "name": "none-12.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-12.png",
+      "folder": ""
+    },
+    {
+      "name": "none-13.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-13.png",
+      "folder": ""
+    },
+    {
+      "name": "none-14.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-14.png",
+      "folder": ""
+    },
+    {
+      "name": "none-15.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-15.png",
+      "folder": ""
+    },
+    {
+      "name": "none-16.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-16.png",
+      "folder": ""
+    },
+    {
+      "name": "none-17.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-17.png",
+      "folder": ""
+    },
+    {
+      "name": "none-18.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-18.png",
+      "folder": ""
+    },
+    {
+      "name": "none-19.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-19.png",
+      "folder": ""
+    },
+    {
+      "name": "none-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-2.png",
+      "folder": ""
+    },
+    {
+      "name": "none-20.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-20.png",
+      "folder": ""
+    },
+    {
+      "name": "none-21.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-21.png",
+      "folder": ""
+    },
+    {
+      "name": "none-22.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-22.png",
+      "folder": ""
+    },
+    {
+      "name": "none-23.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-23.png",
+      "folder": ""
+    },
+    {
+      "name": "none-24.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-24.png",
+      "folder": ""
+    },
+    {
+      "name": "none-25.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-25.png",
+      "folder": ""
+    },
+    {
+      "name": "none-26.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-26.png",
+      "folder": ""
+    },
+    {
+      "name": "none-27.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-27.png",
+      "folder": ""
+    },
+    {
+      "name": "none-28.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-28.png",
+      "folder": ""
+    },
+    {
+      "name": "none-29.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-29.png",
+      "folder": ""
+    },
+    {
+      "name": "none-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-3.png",
+      "folder": ""
+    },
+    {
+      "name": "none-30.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-30.png",
+      "folder": ""
+    },
+    {
+      "name": "none-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-4.png",
+      "folder": ""
+    },
+    {
+      "name": "none-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-5.png",
+      "folder": ""
+    },
+    {
+      "name": "none-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-6.png",
+      "folder": ""
+    },
+    {
+      "name": "none-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-7.png",
+      "folder": ""
+    },
+    {
+      "name": "none-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-8.png",
+      "folder": ""
+    },
+    {
+      "name": "none-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/none-9.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-1.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-10.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-11.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-12.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-12.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-13.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-13.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-14.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-14.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-15.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-15.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-16.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-16.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-17.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-17.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-18.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-18.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-19.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-19.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-2.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-20.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-20.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-21.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-21.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-22.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-22.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-23.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-23.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-24.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-24.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-25.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-25.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-26.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-26.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-27.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-27.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-28.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-28.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-29.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-29.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-3.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-30.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-30.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-4.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-5.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-6.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-7.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-8.png",
+      "folder": ""
+    },
+    {
+      "name": "perfect-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/perfect-9.png",
+      "folder": ""
+    },
+    {
+      "name": "phiearly-0.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phiearly-0.png",
+      "folder": ""
+    },
+    {
+      "name": "phiearly-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phiearly-1.png",
+      "folder": ""
+    },
+    {
+      "name": "philate-0.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/philate-0.png",
+      "folder": ""
+    },
+    {
+      "name": "philate-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/philate-1.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-0.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-0.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-1.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-10.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-11.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-2.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-3.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-4.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-5.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-6.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-7.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-8.png",
+      "folder": ""
+    },
+    {
+      "name": "phinum-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/phinum-9.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-1.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-1.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-10.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-10.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-11.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-11.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-12.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-12.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-13.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-13.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-14.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-14.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-15.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-15.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-2.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-2.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-3.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-3.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-4.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-4.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-5.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-5.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-6.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-6.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-7.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-7.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-8.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-8.png",
+      "folder": ""
+    },
+    {
+      "name": "pressdown-9.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/pressdown-9.png",
+      "folder": ""
+    },
+    {
+      "name": "slide_hold.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/slide_hold.png",
+      "folder": ""
+    },
+    {
+      "name": "tap.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/tap.png",
+      "folder": ""
+    },
+    {
+      "name": "tap_multi.png",
+      "path": "C:/Program Files (x86)/Malody-4.3.7/skin/phigros 素材/phitex/tap_multi.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "phitex",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "cocos2d",
+    "fileName": "pack-result",
+    "savePath": "C:\\Program Files (x86)\\Malody-4.3.7\\skin\\phigros 素材",
+    "width": 3550,
+    "height": 3500,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 10,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}
