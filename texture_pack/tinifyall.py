@@ -9,4 +9,4 @@ for root, dirs, files in os.walk('./',topdown=False):
         if(pat.match(filen)):
             print(filen)
             source = tinify.from_file(filen)
-            source.ro_file(filen)
+            source.to_file(filen)
