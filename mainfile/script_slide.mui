@@ -39,11 +39,11 @@ note-[1-3]
 
 note-1
 	tex=tap.png
-	part=5px,45px
+	part=30,224px
 	size=225,20
 note-2
 	tex=drag.png
-	part=5,45px
+	part=30,224px
 	size=225,20
 note-3
 	tex=hold.png

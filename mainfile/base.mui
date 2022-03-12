@@ -11,23 +11,13 @@
 
 _judgeline
 	type=2
-	pos=50%,0
+	pos=50%,50
 	color=#ffffff
-	opacity=0
+	opacity=30
 	size=100%,2.5
 	anchor=4
 	zindex=2
 	motion=upward_move_op100_judgeline
-
-_background2
-	type=2
-	color=#ffffff
-	opacity=0
-	size=100%,{jheight}
-	anchor=1
-	zindex=11
-	pos=50%,0
-	motion=upward_move_op60_background2
 
 _background
 	type=2
@@ -37,13 +27,17 @@ _background
 	anchor=4
 	zindex=1
 	pos=50%,50%
-	motion=op50_background
+	motion=op30_background
 
-_background3-1
-	anchor=8
-
-_background3-2
-	anchor=6
+_background2
+	type=2
+	color=#ffffff
+	opacity=30
+	size=100%,{jheight}
+	anchor=1
+	zindex=11
+	pos=50%,50
+	motion=upward_move_op60_background2
 
 _pause1
 	type=2
@@ -192,12 +186,11 @@ bar
 musicbar
 	type=0
 	anchor=7
-	pos=50%,-50
+	pos=50%,0
 	size=80%,50
 	count=200
-	opacity=0
+	opacity=100
 	zindex=150
-	motion=upward_move_op100_musicbar
 
 score-maxcombo
 	anchor=1

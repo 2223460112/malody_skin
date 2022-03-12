@@ -8,20 +8,20 @@
     name=fade,from=0,to=25,atime=(-1000,0)
     name=movey,from=-50%,to=50%,atime=(-1000,0)
 
-:op50_background
-    name=fade,from=0,to=50,atime=(-1000,0)
+:op30_background
+    name=fade,from=0,to=30,atime=(-1000,0)
 
 :upward_move_op100_judgeline
-    name=fade,from=0,to=100,atime=(-1000,0)
-    name=movey,from=0,to={jheight},atime=(-1000,0)
+    name=fade,from=30,to=100,atime=(-1000,0)
+    name=movey,from=50,to={jheight},atime=(-1000,0)
 
 :upward_move_op100_judgeline_slide
     name=fade,from=0,to=100,atime=(-1000,0)
     name=movey,from=-{jheight},to=0,atime=(-1000,0)
 
 :upward_move_op60_background2
-    name=fade,from=0,to=60,atime=(-1000,0)
-    name=movey,from=0,to={jheight},atime=(-1000,0)
+    name=fade,from=30,to=60,atime=(-1000,0)
+    name=movey,from=50,to={jheight},atime=(-1000,0)
 
 :upward_move_op60_background2_slide
     name=fade,from=0,to=60,atime=(-1000,0)
@@ -74,10 +74,6 @@
 :rightward_move_op100_progress
     name=movex,from=-100,to=0,atime=(-1000,0)
     name=fade,from=0,to=100,atime=(-1000,0)
-    
-:upward_move_op100_musicbar
-    name=fade,from=0,to=100,atime=(-1000,0)
-    name=movey,from=-50,to=0,atime=(-1000,0)
 
 :downward_move_op100_max_combo
     name=fade,from=0,to=100,atime=(-1000,0)

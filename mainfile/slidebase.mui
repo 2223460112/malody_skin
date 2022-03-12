@@ -27,7 +27,7 @@ _background
 	anchor=4
 	zindex=1
 	pos=50%,50%-{jheight}
-	motion=op50_background
+	motion=op30_background
 
 _background2
 	type=2
@@ -38,12 +38,6 @@ _background2
 	zindex=11
 	pos=50%,-{jheight}
 	motion=upward_move_op60_background2_slide
-
-_background3-1
-	anchor=8
-
-_background3-2
-	anchor=6
 
 _pause1
 	type=2
