@@ -1,4 +1,4 @@
-@texpack hit_light
-@texpack key_and_num
-@texpack none
-@texpack note
+@texpack Tex/hit_light
+@texpack Tex/key_and_num
+@texpack Tex/none
+@texpack Tex/note

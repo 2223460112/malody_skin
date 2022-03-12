@@ -5,9 +5,23 @@
 @unit 720
 
 @include movement.mui
+@include start.mui
 
 param
 	size=80%,{jheight}
+
+_stater_judgeline-1
+	pos=50%,0
+	anchor=5
+	motion=bkg_leftmove
+
+_stater_judgeline-2
+	pos=50%,0
+	anchor=3
+	motion=bkg_rightmove
+
+_Icon-[1-4]
+	pos=50%,50%-{jheight}
 
 _judgeline
 	type=2
