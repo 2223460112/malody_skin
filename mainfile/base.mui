@@ -10,16 +10,6 @@
 @define keywid 40
 @define halfkeywid 20
 
-_stater_judgeline-1
-	pos=50%,{jheight}
-	anchor=5
-	motion=bkg_leftmove
-
-_stater_judgeline-2
-	pos=50%,{jheight}
-	anchor=3
-	motion=bkg_rightmove
-
 _Icon-[1-4]
 	pos=50%,50%
 

@@ -1,46 +1,23 @@
 @texpack Tex/Icon
 @define jheight 108
 
-:bkg_leftmove
-    name=fade,from=100,to=0,atime=(-1600,-1000)
-    name=movex,from=50%,to=0,atime=(-1600,-1000)
-
-:bkg_rightmove
-    name=fade,from=100,to=0,atime=(-1600,-1000)
-    name=movex,from=50%,to=100%,atime=(-1600,-1000)
-
 :fade_icon
-    name=fade,from=100,to=0,atime=(-1600,-1000)
+    name=fade,from=0,to=100,atime=(-2200,-1200)
+    name=fade,from=100,to=0,atime=(-600,0)
 
-:rotate__30
-	name=rotate,from=0,to=-40,atime=(-2200,-1600)
-    name=fade,from=100,to=0,atime=(-1600,-1000)
-:rotate_30
-	name=rotate,from=0,to=40,atime=(-2200,-1600)
-    name=fade,from=100,to=0,atime=(-1600,-1000)
+:rotate_1
+    name=fade,from=0,to=100,atime=(-2200,-1200)
+	name=rotate,from=0,to=360,atime=(-1200,200)
+    name=fade,from=100,to=0,atime=(-600,0)
 
-_stater_bkg-[1-2]
-	type=2
-	color=#000000
-	opacity=100
-	size=200%,200%
-	zindex=160
-	pos=50%,50%
-
-_stater_bkg-1
-    anchor=5
-    motion=bkg_leftmove
-    
-_stater_bkg-2
-    anchor=3
-    motion=bkg_rightmove
-
-_stater_judgeline-[1-2]
-	type=2
-	color=#ffffff
-	opacity=100
-	size=100%,2.5
-	zindex=161
+:rotate_2
+    name=fade,from=0,to=100,atime=(-2200,-1200)
+	name=rotate,from=0,to=-720,atime=(-1200,200)
+    name=fade,from=100,to=0,atime=(-600,0)
+:rotate_3
+    name=fade,from=0,to=100,atime=(-2200,-1200)
+	name=rotate,from=0,to=1080,atime=(-1200,200)
+    name=fade,from=100,to=0,atime=(-600,0)
 
 _Icon-[1-4]
 	anchor=4
@@ -50,19 +27,23 @@ _Icon-[1-4]
 _Icon-1
 	tex=Icon-1.png
 	zindex=165
+	opacity=0
 	motion=fade_icon
 
 _Icon-2
 	tex=Icon-2.png
 	zindex=164
-	motion=fade_icon
+	opacity=0
+	motion=rotate_1
 
 _Icon-3
 	tex=Icon-3.png
 	zindex=163
-	motion=rotate__30
+	opacity=0
+	motion=rotate_2
 
 _Icon-4
 	tex=Icon-4.png
 	zindex=162
-	motion=rotate_30
+	opacity=0
+	motion=rotate_3
